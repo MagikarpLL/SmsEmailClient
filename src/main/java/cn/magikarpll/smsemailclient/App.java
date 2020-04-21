@@ -1,5 +1,6 @@
 package cn.magikarpll.smsemailclient;
 
+//import cn.magikarpll.smsemailclient.common.EnableGlobalDispose;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
+//@EnableGlobalDispose
 public class App 
 {
     public static void main( String[] args )
