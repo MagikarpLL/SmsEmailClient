@@ -4,4 +4,3 @@ server:
     context-path: /gateway
 
 appName: gateway
-
